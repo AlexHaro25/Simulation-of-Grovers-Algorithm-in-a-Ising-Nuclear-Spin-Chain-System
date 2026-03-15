@@ -18,9 +18,12 @@ Two decoherence models were analyzed:
 
 ## Key Results
 - Grover's algorithm was successfully simulated for two qubits
+![Grover Simulation](plots/results.png)
 - The $2\pi k$ method effectively suppresses non-resonant transition errors
+![Fidelity vs $\Omega$](plots/fidelity1.png)
 - Independent damping has the greatest impact on algorithm fidelity
 - Pure dephasing limits the algorithm for all possible search cases
+![Fidelity vs $\gamma$](plots/fidelity2.png)
 
 ## Libraries
 - numpy
