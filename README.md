@@ -4,7 +4,7 @@
 This project presents a numerical simulation of Grover's quantum search algorithm for two qubits, using a one-dimensional Ising nuclear spin chain as the physical model. The system interacts with an external magnetic field and radiofrequency pulses, which are used to implement the required quantum gates. A reference simulation was also implemented using Qiskit.
 
 ## Quantum Gates Implemented
-- Hadamard gate $H_0$$H_1$
+- Hadamard gate $H_0H_1$
 - Control-Z gate (CZ)
 - $Z_1Z_2$ gate
 
